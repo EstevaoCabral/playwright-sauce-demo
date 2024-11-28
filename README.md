@@ -36,7 +36,7 @@ Este é um projeto de automação de testes para o site [SauceDemo](https://www.
 
 ## Instale as dependências
 ```bash
-    npx install 
+    npm install 
 ```
 
 ## Executando os Testes
